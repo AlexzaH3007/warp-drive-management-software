@@ -1,0 +1,16 @@
+
+#formulario{
+	width: 20%;
+	height: auto;	
+	margin: auto;
+	margin-top: 5%;
+	
+}
+input{
+	width: 50%;
+	height: 30px;
+	border:1px solid #140814;
+	color:#140814;
+
+
+}
